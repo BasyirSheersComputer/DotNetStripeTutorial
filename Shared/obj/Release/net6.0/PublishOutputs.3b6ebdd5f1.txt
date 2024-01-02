@@ -1,0 +1,3 @@
+C:\Users\Admin\source\repos\DotNetStripeTutorial\Shared\bin\Release\net6.0\publish\Shared.dll
+C:\Users\Admin\source\repos\DotNetStripeTutorial\Shared\bin\Release\net6.0\publish\Shared.deps.json
+C:\Users\Admin\source\repos\DotNetStripeTutorial\Shared\bin\Release\net6.0\publish\Shared.pdb

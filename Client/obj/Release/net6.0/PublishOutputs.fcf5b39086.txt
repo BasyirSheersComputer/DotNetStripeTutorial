@@ -1,0 +1,1 @@
+C:\Users\Admin\source\repos\DotNetStripeTutorial\Client\bin\Release\net6.0\publish\web.config

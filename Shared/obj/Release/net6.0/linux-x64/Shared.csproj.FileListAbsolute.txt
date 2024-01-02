@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\DotNetStripeTutorial\Shared\bin\Release\net6.0\linux-x64\Shared.deps.json
+C:\Users\Admin\source\repos\DotNetStripeTutorial\Shared\bin\Release\net6.0\linux-x64\Shared.dll
+C:\Users\Admin\source\repos\DotNetStripeTutorial\Shared\bin\Release\net6.0\linux-x64\Shared.pdb
+C:\Users\Admin\source\repos\DotNetStripeTutorial\Shared\obj\Release\net6.0\linux-x64\Shared.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DotNetStripeTutorial\Shared\obj\Release\net6.0\linux-x64\Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\DotNetStripeTutorial\Shared\obj\Release\net6.0\linux-x64\Shared.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DotNetStripeTutorial\Shared\obj\Release\net6.0\linux-x64\Shared.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DotNetStripeTutorial\Shared\obj\Release\net6.0\linux-x64\Shared.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DotNetStripeTutorial\Shared\obj\Release\net6.0\linux-x64\Shared.dll
+C:\Users\Admin\source\repos\DotNetStripeTutorial\Shared\obj\Release\net6.0\linux-x64\refint\Shared.dll
+C:\Users\Admin\source\repos\DotNetStripeTutorial\Shared\obj\Release\net6.0\linux-x64\Shared.pdb
+C:\Users\Admin\source\repos\DotNetStripeTutorial\Shared\obj\Release\net6.0\linux-x64\ref\Shared.dll
